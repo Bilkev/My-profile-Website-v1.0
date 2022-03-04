@@ -1,5 +1,4 @@
 body{
-  margin: 0px;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
@@ -83,6 +82,15 @@ h3 {
     Width : 25%;
     float: right;
     margin-right: 30px;
+  }
+
+  .profile-pic {
+    padding-top: 50px;
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
   }
 
   .btn {
