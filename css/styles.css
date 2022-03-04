@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -12,6 +12,21 @@ hr {
 
 a {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 0.75rem;
 }
 
 h1 {
@@ -94,7 +109,7 @@ h3 {
   }
 
   .bottom-text {
-    padding-bottom: 50px; 
+    padding-bottom: 50px;
   }
 
   .btn {
